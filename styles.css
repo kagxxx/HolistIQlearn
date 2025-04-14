@@ -969,6 +969,9 @@ video {
     margin-top: 20%;
     margin-right: 15%;
   }
+  .card2 p{
+    margin-top: 5px;
+  }
 }
 
 
